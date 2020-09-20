@@ -3,7 +3,8 @@ It uses the Nord color palete and is centerd by default.
 Below is the contend of the `README` file that comes with dmenu.
 
 
-```dmenu - dynamic menu
+```
+dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
@@ -26,4 +27,5 @@ Afterwards enter the following command to build and install dmenu
 
 Running dmenu
 -------------
-See the man page for details.```
+See the man page for details.
+```
